@@ -5,6 +5,7 @@
   "type": "module",
   "description": "Very basic starter template, good for experimentation.",
   "scripts": {
+    "test": "vitest",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
